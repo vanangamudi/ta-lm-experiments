@@ -1,0 +1,3 @@
+[submodule "anikattu"]
+	path = anikattu
+	url = git@github.com:vanangamudi/anikattu.git
